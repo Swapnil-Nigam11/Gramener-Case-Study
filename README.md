@@ -16,7 +16,7 @@ The loan data contains the information about past loan applicants and whether th
 
 When a person applies for a loan, there are two types of decisions that could be taken by the company:
 
-1.Loan accepted: If the company approves the loan, there are 3 possible scenarios described below:
+       1.Loan accepted: If the company approves the loan, there are 3 possible scenarios described below:
               
               1.Fully paid: Applicant has fully paid the loan (the principal and the interest rate)
                
